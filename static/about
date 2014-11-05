@@ -1,0 +1,167 @@
+<!-- 
+/******************************************/   
+/*    Theme   : Phantom                   */
+/*    Version : 1.2                       */
+/*    Author  : Codetic                   */
+/*    Website : http://www.codetic.net    */ 
+/******************************************/  
+ -->
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html" charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+
+    <title>About</title>
+    <meta name="description" content="" />
+
+    <meta name="HandheldFriendly" content="True" />
+    <meta name="MobileOptimized" content="320" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+
+    <link rel="shortcut icon" href="favicon.ico">
+
+    <link rel="stylesheet" type="text/css" href="assets/css/screen.css" />
+
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,300italic,700' rel='stylesheet' type='text/css'>
+
+    <link href='http://fonts.googleapis.com/css?family=Oswald:400,300,700|Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800|Roboto+Slab:400,100,300,700' rel='stylesheet' type='text/css'>
+
+    <link rel="stylesheet" href="assets/font-awesome/css/font-awesome.min.css">
+
+    <link rel="canonical" href="http://willemwijnans.github.io/about/" />
+    
+    <meta property="og:site_name" content="Sourcingmonk" />
+    <meta property="og:type" content="article" />
+    <meta property="og:title" content="About" />
+    <meta property="og:description" content="[avslideshowfull size='featured' stretch='imagenostretch' animation='slide' autoplay='false' interval='5' src='' attachment='' position='top left' repeat='no-repeat' attach='scroll'] [avslidefull id='235' attachment='' title='' captionpos='captionbottom' link='' linktarget=''][/avslidefull] [/avslideshowfull] [avonehalf first] [avheading..." />
+    <meta property="og:url" content="http://willemwijnans.github.io/about/" />
+    <meta property="article:published_time" content="2013-12-31T09:12:25.000Z" />
+    <meta property="article:modified_time" content="2014-08-07T11:09:19.000Z" />
+    
+    <meta name="twitter:card" content="content" />
+    <meta name="twitter:title" content="About" />
+    <meta name="twitter:description" content="[avslideshowfull size='featured' stretch='imagenostretch' animation='slide' autoplay='false' interval='5' src='' attachment='' position='top left' repeat='no-repeat' attach='scroll'] [avslidefull id='235' attachment='' title='' captionpos='captionbottom' link='' linktarget=''][/avslidefull] [/avslideshowfull] [avonehalf first] [avheading..." />
+    <meta name="twitter:url" content="http://willemwijnans.github.io/about/" />
+    
+    <script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "Article",
+    "publisher": "Sourcingmonk",
+    "author": {
+        "@type": "Person",
+        "name": "Willem Wijnans",
+        "url": "http://willemwijnans.github.io/author/willem",
+        "sameAs": null
+    },
+    "headline": "About",
+    "url": "http://willemwijnans.github.io/about/",
+    "datePublished": "2013-12-31T09:12:25.000Z",
+    "dateModified": "2014-08-07T11:09:19.000Z",
+    "description": "[avslideshowfull size='featured' stretch='imagenostretch' animation='slide' autoplay='false' interval='5' src='' attachment='' position='top left' repeat='no-repeat' attach='scroll'] [avslidefull id='235' attachment='' title='' captionpos='captionbottom' link='' linktarget=''][/avslidefull] [/avslideshowfull] [avonehalf first] [avheading"
+}
+    </script>
+
+    <meta name="generator" content="Ghost 0.5" />
+    <link rel="alternate" type="application/rss+xml" title="Sourcingmonk" href="rss/index.html" />
+</head>
+<body class="post-template page-template page">
+
+    
+
+<main class="content" role="main">
+
+    <!-- Page Sidebar -->
+
+        
+            <div class="back-to-home">
+                <a href="http://willemwijnans.github.io"><i class="fa fa-long-arrow-left fa-2x"></i><h5>Sourcingmonk</h5></a>       
+            </div> <!-- Small Screen Navigation End -->
+        
+            <div class='post-fixed-nav'>
+            	
+                <h5 class="left-menu-title">Sourcingmonk</h5>
+                <hr>
+        
+            <div class="post-sidebar">
+        
+        
+                <iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2FCodetic&amp;width=270&amp;height=400&amp;colorscheme=dark&amp;show_faces=true&amp;header=false&amp;stream=false&amp;show_border=false&amp;appId=539759132770284" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:250px; height:258px;" allowTransparency="true"></iframe>
+        
+             </div>
+        
+            <div class="post-sidebar">
+                 <h2 class="sidebar-title"><i class="fa fa-tags fa-fw"></i>Another Sidebar</h2>
+                 <p>And some another contents. Replace it from page-sidebar.hbs file. <br> See Documentation for details.</p>
+            </div>
+        
+        <!-- Add another sidebar below //
+        
+        
+            <div class="post-sidebar">
+                 <h2 class="sidebar-title"><i class="fa fa-tags fa-fw"></i>Another Sidebar</h2>
+                 <p>And some another contents. Replace it from page-sidebar.hbs file.</p>
+            </div>
+        
+        // --> 
+        
+        
+        <!-- Footer Social Icons --> 
+            <div class="footer-social-menu">
+                <div class="footer-social-icons">
+                    <a href="http://www.facebook.com/"><i class="fa fa-facebook fa-2x"></i></a>
+                    <a href="http://www.twitter.com/"><i class="fa fa-twitter fa-2x"></i></a>
+                    <a href="https://github.com/"><i class="fa fa-github fa-2x"></i></a>
+                    <a href="https://plus.google.com"><i class="fa fa-google-plus fa-2x"></i></a>
+                    <a href="http://willemwijnans.github.io/rss"><i class="fa fa-rss fa-2x"></i></a>
+                </div> 
+            </div><!-- Footer Social Icons -->
+        
+        </div>
+        
+
+
+    <!-- Page Content -->
+
+
+    <div class='post-holder'>    
+            
+
+        <article class="post page">  
+              
+            <h1 class="page-title">About</h1>
+            
+            <section class="post-content">
+                <p>[av<em>slideshow</em>full size='featured' stretch='image<em>no</em>stretch' animation='slide' autoplay='false' interval='5' src='' attachment='' position='top left' repeat='no-repeat' attach='scroll'] [av<em>slide</em>full id='235' attachment='' title='' caption<em>pos='caption</em>bottom' link='' link<em>target=''][/av</em>slide<em>full] [/av</em>slideshow<em>full] [av</em>one<em>half first] [av</em>heading tag='h3' padding='10' heading='willem wijnans' color='' style='' custom<em>font='' size='' subheading</em>active='' subheading<em>size='15' custom</em>class=''][/av<em>heading] [av</em>team<em>member name='' job='' src='<a href="http://sourcingmonk.com/wp-content/uploads/2013/12/willem.png">http://sourcingmonk.com/wp-content/uploads/2013/12/willem.png</a>' attachment='412' attachment</em>size='full' description=''] [av<em>team</em>icon title='' link='<a href="https://www.facebook.com/sourcingmonk">https://www.facebook.com/sourcingmonk</a>' link<em>target='' icon='ue826' font='zocial'] [av</em>team<em>icon title='' link='<a href="http://nl.linkedin.com/in/willemwijnans">http://nl.linkedin.com/in/willemwijnans</a>' link</em>target='' icon='ue8fc' font='entypo-fontello'] [av<em>team</em>icon title='' link='<a href="https://plus.google.com/+WillemWijnans1/">https://plus.google.com/+WillemWijnans1/</a>' link<em>target='' icon='ue8f6' font='entypo-fontello'] [av</em>team<em>icon title='' link='<a href="http://www.quora.com/Willem-Wijnans">http://www.quora.com/Willem-Wijnans</a>' link</em>target='<em>blank' icon='ue812' font='zocial'] [av</em>team<em>icon title='' link='<a href="http://twitter.com/willemwijnans">http://twitter.com/willemwijnans</a>' link</em>target='' icon='ue832' font='zocial'] [/av<em>team</em>member] [/av<em>one</em>half] [av<em>one</em>fourth] [av<em>heading tag='h3' padding='23' heading='about me' color='' style='' custom</em>font='' size='' subheading<em>active='' subheading</em>size='15'][/av<em>heading] [av</em>textblock ] I was born in Eindhoven, later moved to Utrecht to study, had a brief spell in South America travelling and in 2010 I decided it was time for Amsterdam. In my free time I love to run, bike and swim. I am very interested in sourcing techniques that are advocated on <a href="http://booleanblackbelt.com">Glen Catheys</a> blog and I am an avid reader of <a href="http://sourcecon.com">Sourcecon</a>. Especially for the more technical roles I saw an ongoing need of good mining tactics and started using <a href="http://Github.com">Github</a>, <a href="http://stackoverflow.com">Stackoverflow</a>, <a href="http://ohloh.com">Ohloh</a>, <a href="https://code.google.com">Google Code</a> and many more. Not to only find technical a-players but also engage with them about their open-source projects and beliefs. This has gotten me to where I am today, an IT sourcing monk who is currently recruiting tech talent for <a href="http://backbase.com">Backbase</a>. You can find my resume <a href="http://sourcingmonk.com/wp-content/uploads/2013/12/Jan-14_CV-Willem-Wijnans_Algemeen.pdf" title="resume">here</a>.<a href="ftp://wwijnans@server52.hosting2go.nl/httpsdocs/Jan%2014_CV%20Willem%20Wijnans_Algemeen.pdf" title="resume"></a> [/av<em>textblock] [/av</em>one<em>fourth] [av</em>one<em>fourth] [av</em>heading tag='h3' padding='23' heading='backbase' color='' style='' custom<em>font='' size='' subheading</em>active='' subheading<em>size='15' custom</em>class=''][/av<em>heading] [av</em>textblock ] <a href="http://backbase.com">Backbase</a> is a software company. It designs products that improve the lives of real people. Backbase has created the world’s leading lean customer experience platform. It has been designed to help businesses organize, create, and manage deeply relevant customer experiences across all channels, on any device to delight customers, and deliver measurable business results. Within the awesome team of Backbase, I am responsible for sourcing and recruiting technical talent. We are a great bunch of people and if you love Javascript and care about beautiful User Experience we should talk. Or you are all about Java software development and would love to put your mark on our products, do let me know. We have a <a href="http://blog.backbase.com/">blog</a>, you can follow us on <a href="https://twitter.com/backbase">twitter</a>, see our open jobs <a href="http://www.backbase.com/about/careers#jobs" title="backbase open positions">here</a> and check <a href="http://www.glassdoor.com/Overview/Working-at-Backbase-EI_IE117266.11,19.htm">Backbase out on Glassdoor</a> as well. [/av<em>textblock] [/av</em>one<em>fourth][av</em>slideshow size='featured' animation='slide' autoplay='false' interval='5'][/av<em>slideshow] [av</em>section color='main<em>color' custom</em>bg='#f2f2f2' src='' attachment='' position='top left' repeat='no-repeat' attach='scroll' min<em>height='' padding='default' shadow='shadow' id=''] [av</em>one<em>fourth first] [av</em>icon<em>box icon='ue82c' font='zocial' position='top' title='Meetup' link='manually,<a href="http:///www.meetup.com/members/95378012/">http:///www.meetup.com/members/95378012/</a>' linktarget='</em>blank'] You will find me attending meetups regarding tech, social media, content &amp; sports. It's a great place to learn new things and grow your network. Also a good place to find passive and hidden talent, find my post about it here. [/av<em>icon</em>box] [/av<em>one</em>fourth][av<em>one</em>fourth] [av<em>icon</em>box icon='ue800' font='zocial' position='top' title='StackOverflow' link='manually,<a href="http://stackoverflow.com/users/2956415/willem-wijnans">http://stackoverflow.com/users/2956415/willem-wijnans</a>' linktarget=''] This website has been made possible by the awesome community on StackOverflow / StackExchange. For every technical question there is an answer. Also good to find your new technical a-player. [/av<em>icon</em>box] [/av<em>one</em>fourth][av<em>one</em>fourth] [av<em>icon</em>box icon='ue812' font='zocial' position='top' title='Quora' link='manually,<a href="http://www.quora.com/Willem-Wijnans">http://www.quora.com/Willem-Wijnans</a>' linktarget=''] I try to be as active as I can by answering questions and helping people out when it comes to technical recruiting &amp; social media sourcing. But I also like to ask questions, check my post about Quora here. [/av<em>icon</em>box] [/av<em>one</em>fourth][av<em>one</em>fourth] [av<em>icon</em>box icon='ue845' font='zocial' position='top' title='Evernote' link='manually,<a href="https://www.evernote.com/referral/Registration.action?uid=53766586&amp;sig=4918babb1b1e73f50fb0b6fd8b024d48">https://www.evernote.com/referral/Registration.action?uid=53766586&amp;sig=4918babb1b1e73f50fb0b6fd8b024d48</a>' linktarget=''] Evernote, I can't live without it. My whole life is in this nifty little program, from personal goals to references to interesting reads. It's my bible and can recommend this to anyone looking for peace of mind. Find my post about it here. [/av<em>icon</em>box] [/av<em>one</em>fourth] [/av_section]</p>
+            </section>
+
+    
+        </article>   
+
+    </div>
+</main>
+
+    <footer class="site-footer">
+
+        <a class="go-top" href="about#top" title="Back to Top">
+            <span><i class="fa fa-arrow-circle-up fa-4x"></i></span>
+        </a>
+        
+        <div class="inner">
+            <section class="poweredby"><a href="http://willemwijnans.github.io">Sourcingmonk</a>  &copy; All Rights Reserved, 2014 
+            </section>
+        </div>
+    </footer>
+
+    <script src="public/jquery.js?v=12c42bac89"></script>
+
+
+    <script type="text/javascript" src="assets/js/icons.js"></script>
+    <script type="text/javascript" src="assets/js/index.js"></script>
+    <script type="text/javascript" src="assets/js/jquery.fitvids.js"></script>
+
+
+</body>
+</html>
