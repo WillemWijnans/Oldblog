@@ -1,4 +1,4 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Willem Wijnans - Sourcingmonk</title><description>Thoughts, stories and ideas.</description><link>http://willemwijnans.github.io/</link><generator>Ghost 0.5</generator><lastBuildDate>Mon, 03 Nov 2014 19:39:24 GMT</lastBuildDate><atom:link href="http://willemwijnans.github.io/author/willem/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>Welcome to Ghost</title><description>&lt;p&gt;You're live! Nice. We've put together a little post to introduce you to the Ghost editor and get you started. You can manage your content by signing in to the admin area at &lt;code&gt;&amp;lt;your blog URL&amp;gt;/ghost/&lt;/code&gt;. When you arrive, you can select this post from a list on the left and see a preview of it on the right. Click the little pencil icon at the top of the preview to edit this post and read the next section!&lt;/p&gt;
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Willem Wijnans - Sourcingmonk</title><description>Thoughts, stories and ideas.</description><link>http://willemwijnans.github.io/</link><generator>Ghost 0.5</generator><lastBuildDate>Wed, 05 Nov 2014 03:11:41 GMT</lastBuildDate><atom:link href="http://willemwijnans.github.io/author/willem/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>Welcome to Ghost</title><description>&lt;p&gt;You're live! Nice. We've put together a little post to introduce you to the Ghost editor and get you started. You can manage your content by signing in to the admin area at &lt;code&gt;&amp;lt;your blog URL&amp;gt;/ghost/&lt;/code&gt;. When you arrive, you can select this post from a list on the left and see a preview of it on the right. Click the little pencil icon at the top of the preview to edit this post and read the next section!&lt;/p&gt;
 
 &lt;h2 id="gettingstarted"&gt;Getting Started&lt;/h2&gt;
 
@@ -63,7 +63,129 @@
 
 &lt;p&gt;&lt;input type="text" placeholder="I'm an input field!"&gt;&lt;/p&gt;
 
-&lt;p&gt;That should be enough to get you started. Have fun - and let us know what you think :)&lt;/p&gt;</description><link>http://willemwijnans.github.io/welcome-to-ghost/</link><guid isPermaLink="false">cf5742b2-b9ee-4a67-8371-6c5cfcc30766</guid><category>Getting Started</category><dc:creator>Willem Wijnans</dc:creator><pubDate>Mon, 03 Nov 2014 01:18:33 GMT</pubDate></item><item><title>Review of // Lever</title><description>&lt;p&gt;Have to re-implement this one, massive bugs &amp;amp; breaks :)&lt;/p&gt;</description><link>http://willemwijnans.github.io/review-of-lever/</link><guid isPermaLink="false">e0363233-aa65-4f3c-80bf-92081d8ea101</guid><category>Reviews</category><dc:creator>Willem Wijnans</dc:creator><pubDate>Wed, 29 Oct 2014 23:25:10 GMT</pubDate></item><item><title>Hiring done right // Workable and Lever</title><description>&lt;p&gt;Since I did the &lt;a href="http://sourcingmonk.com/talent-hacking-done-right/" title="Hiring done right // Talent Hacking"&gt;interview with Jobbox.io&lt;/a&gt; I noticed how many people are interested in Talent Hacking. I have always been interested in doing things right with technology, especially the administrative part of hiring. It just takes very good spreadsheet management (where I fail miserably) or exceptional tools to do this (I like leveraging technology more). &lt;/p&gt;
+&lt;p&gt;That should be enough to get you started. Have fun - and let us know what you think :)&lt;/p&gt;</description><link>http://willemwijnans.github.io/welcome-to-ghost/</link><guid isPermaLink="false">cf5742b2-b9ee-4a67-8371-6c5cfcc30766</guid><category>Getting Started</category><dc:creator>Willem Wijnans</dc:creator><pubDate>Mon, 03 Nov 2014 01:18:33 GMT</pubDate></item><item><title>Review of // Lever</title><description>&lt;p&gt;A few weeks ago I promised a story about Lever, and why they should be used when you take hiring seriously. Today, I will talk about how Lever can help you doing better hiring. You know, the things that make you successful as a recruiter.&lt;/p&gt;
+
+&lt;p&gt;I got Lever on my radar when I read &lt;a href="http://blog.alinelerner.com/review-of-lever/"&gt;Aline Lerner’s blog post&lt;/a&gt; about Lever. She starts out with the exact same feeling I have been having for quite some time: ATSs suck big time. It doesn’t matter if you are Taleo, Jobvite, Jobscore or any other thing from &lt;a href="https://docs.google.com/spreadsheet/ccc?key=0ArG719HDHqXmdF9Db0lZaXVpbnZHTjRtMDNZcEVoeGc#gid=0"&gt;this list:&lt;/a&gt; you kinda suck. I’ll tell you the one and only reason why they suck: they have no sourcing capabilities (and if they state they do, it’s a lie). The only two products who can effectively manage a pipeline of sourced candidates are Lever and Workable, period.&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;p&gt;So, first things first, if you are into sourcing talent, Lever can make it so much easier for you but also for your whole team. Their belief, and I totally back them on this one, is that everyone on the team should help finding talent. This is an invaluably wise thing to evangelise. Developers find better developers, period. Marketing guys can find better marketing guys and I can spot a decent tech recruiter from miles away. This product &lt;em&gt;can&lt;/em&gt; get your whole team into sourcing people, instead of just dumping your roles with a recruiter who does not understand the role he is hiring for. They challenge the status quo, the central role of the recruiter / HR for hiring everyone is long overdue, and that’s what makes them such a damn good product to do hiring with in the first place. Lever will empower your whole team to approach the recruiting challenge together.&lt;/p&gt;
+
+&lt;p&gt;So how does it work? Like many other PaaS / SaaS products, they have a Chrome extension. This makes it easy to get peoples online profiles in to Lever (Github / LinkedIn / Angel.co / Dribbble). This thing is not exclusively available for recruiters, but for everyone on the (Google Apps) domain. That’s the power of it — you can turn your organisation in a sourcing power machine. I think this approach got adopted from how they work themselves and how many startups do hiring: hire with everyone on the team and make it fun again. At some point recruiting or just hiring new co-workers became a drag because it was so damn hard (and ruined by recruiters). With the right use of Lever and proper training of your team, hiring can become fun again, which it should be.&lt;/p&gt;
+
+&lt;p&gt;So that is the main reason I personally love Lever, but I also like it because they have some other aspects that are important. In no specific order: it looks good, it works, it gets updated regularly, it’s (partly) open-sourced and they are very nice people. Lets dig a little deeper:&lt;/p&gt;
+
+&lt;h5 id="itlooksgood"&gt;It looks good&lt;/h5&gt;
+
+&lt;p&gt;I'll be honest and short about this: I like good looking things. It’s clever use of the modern web standards. It’s a good looking web application. UI is good, UX feels great and they often revise their looks to make it look even better.&lt;/p&gt;
+
+&lt;h5 id="itworks"&gt;It works&lt;/h5&gt;
+
+&lt;p&gt;Like stated above: Lever has a really good integration tool, a chrome extension that lets you import candidates from sites like LinkedIn, Github, Angel.co, and they are integrating with even more sites as we speak. I already pointed out that Stackoverflow is a must have, as well as Bitbucket, Tech.pro &amp;amp; Coderwall for tech and maybe Behance &amp;amp; Dribble for design. I am not familiar with any other sites Marketing / Sales recruiters utilize, so if you know some that should be added to the tally do comment on this piece.&lt;/p&gt;
+
+&lt;p&gt;The tool just works. You install it and whenever you land on a page that Lever integrates with, you can scrape off a candidate’s (shown) information into Lever. It often gives you candidate’s email addresses as well, which is really useful when sourcing. Let me show it to you:&lt;/p&gt;
+
+&lt;iframe width="560" height="315" src="http://www.youtube.com/embed/ewsJ-800qWw" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Next to the tool they provide a very good, but lean, ATS (Applicant Tracking System). Scheduling interviews is easy across the board, leaving feedback on candidates is done within seconds and all kind of reports can be made. You can tag people with specifics, there is a snooze button (❤) and you can use the open API to build a killer careers page. For instance, &lt;a href="https://www.clinkle.com/careers"&gt;check out the careers page of Clinkle&lt;/a&gt; — you can’t even see Lever anymore.&lt;/p&gt;
+
+&lt;p&gt;To be honest, hiring is a very administration-heavy job. This administrative aspect is the biggest pain point for me, but with Lever I actually suck less, which can only benefit the people I am trying to hire☺.&lt;/p&gt;
+
+&lt;h5 id="theirsupportisgood"&gt;Their support is good&lt;/h5&gt;
+
+&lt;p&gt;Like with any other software, you sometimes need some support from one of their members, or if you are like me, you are missing things that would make the software even more interesting and therefore better to use. They take your requests seriously. ven last week when I visited them, they did a project called ‘Polish’ to fix all the minor issues and take user requests into production that were stacked over the previous period. Also I have seen many product updates in the limited time I have used Lever at 3DHubs.&lt;/p&gt;
+
+&lt;h5 id="itisbuiltonopensourcetechnologies"&gt;It is built on open-source technologies&lt;/h5&gt;
+
+&lt;p&gt;Its all built on open source technologies: &lt;a href="http://derbyjs.com/"&gt;Derby.js&lt;/a&gt; (whom their &lt;a href="http://sourcingmonk.com/wp-admin/www.linkedin.com/in/nateps"&gt;CTO Nate Smith&lt;/a&gt; is an author of), &lt;a href="http://sharejs.org/"&gt;Share.js&lt;/a&gt; and &lt;a href="http://tributary.io/"&gt;Tributary.io&lt;/a&gt;. This gives them an advantage over all the big fish I named before. It will certainly make it easier for your engineers to start liking this software. Also they are currently building out their API’s: which for instance makes the custom build career pages possible. Check out their &lt;a href="https://github.com/lever"&gt;Github account here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h5 id="theyareaverynicebunchofpeople"&gt;They are a very nice bunch of people&lt;/h5&gt;
+
+&lt;p&gt;Last week I had the opportunity to visit Lever HQ in San Francisco. They took me out to dinner, and we discussed the future, the past and the present of recruiting. As some of you might have heard, they recently landed &lt;a href="http://citybizlist.com/article/211100/matrix-partners-leads-10m-series-a-for-lever"&gt;a nice Series A funding lead by Matrix Partners&lt;/a&gt; so they are going to scale and push even a better working Lever into the market. This puts a smile on my face, since this market is full of ancient ATSs that need to be overthrown. Every single person I met is bright, young and driven to make their program succeed. You know you will be in good hands when you start using them.&lt;/p&gt;
+
+&lt;p&gt;So those are some things that really make my mouth water. It’s all subjective of course, but since I think there will be more people who will take on a pro-active way of hiring and could benefit from software built on those pillars.&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;h4 id="thecase3dhubs"&gt;The case: 3D Hubs&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src="http://willemwijnans.github.io/content/images/2014/11/Screen-Shot-2014-07-21-at-18-17-05.png" alt=""&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://3dhubs.com/"&gt;3D Hubs&lt;/a&gt; is a startup from Amsterdam, they recently completed their &lt;a href="http://techcrunch.com/2014/09/02/3dhubs-raises-4-5-million-to-make-local-3d-printing-global/"&gt;Series A funding&lt;/a&gt; and are going overseas (NYC) to get more API penetration. The service they offer? They allow you to find and order 3D prints from printers in your area. It’s very cool for the 3D printing industry actually.&lt;/p&gt;
+
+&lt;p&gt;Now in this case that I am going to describe I had the luxury to hunt developers while using Lever. They needed Front-end (JS/CSS/HTML) and Back-end developers (Drupal/PHP). I did not even have to advise them on getting Lever, simply because their ‘Growth guy’ &lt;a href="https://www.linkedin.com/in/robdraaijer"&gt;Rob Draaijer&lt;/a&gt; had already implemented Lever long before my arrival (well done).&lt;/p&gt;
+
+&lt;p&gt;So, the overview screen is as follows:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://willemwijnans.github.io/content/images/2014/11/Overview-3DHubs-Lever.png" alt=""&gt;&lt;/p&gt;
+
+&lt;p&gt;As you can see it is my own personal pipeline. This is a snapshot of current state. You can see the underlined green sources. Though it looks like most candidates came from LinkedIn, this isn’t strictly true — I hunt people on Git / StackOverflow / BitBucket / Drupal forums or whatever and then import them through LinkedIn (if I can find their profile). Some guys only have AngelList or Github, and then I import through those sites. Note to self: &lt;em&gt;need to take care of specifying where I got people from, it seems Linkedin is doing an great job now while it I mainly use it for cross referencing or checking up on people (and importing them into Lever ;))&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;80 people archived, click it and see it in-depth:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://willemwijnans.github.io/content/images/2014/11/Overview-archived.png" alt=""&gt;&lt;/p&gt;
+
+&lt;p&gt;Most of the people have been sourced by me (27 leads, and in the archived slot there are the guys who withdrew etc), doing Stackoverflow searches (tag:Drupal and check out top-answerers in the EU area for them Back-end guys), LinkedIn searches and some Github searches.&lt;/p&gt;
+
+&lt;p&gt;The good thing is, if you are in to bulk emailing, you can send out a nice introduction email about the job and company, and why you think they are an added value to your mission. ONLY bulk email people who actually 100% MATCH to the job you are filling, and make it special. Do your research about the people you put in your pipeline. And if you are unsure, ask an engineer if the profile is good. Stop randomly spamming people with random jobs who match your random keywords, (there I said it again).&lt;/p&gt;
+
+&lt;p&gt;I always do research and make every introduction specific to the person. Ill give you one tip: it works pretty good to let the people know how you have found them, showing them your boolean search or X-rayed Github / Stackoverflow query and where they rank. I am not going to post screenshots about the emails I send, since I am giving away too much already.&lt;/p&gt;
+
+&lt;p&gt;Then, the beloved snooze-button ❤.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://willemwijnans.github.io/content/images/2014/11/Snooze.png" alt=""&gt;&lt;/p&gt;
+
+&lt;p&gt;So rule of thumb: no-one is looking for a new job at the moment you reach out to them. There are some exceptions but just know that this is a snowball game. The more you reach out, the more matches will be added to your snowball. Reaching out on a creative way also does some advertising work: Developer X to Developer Y: ‘I got this recruiter email the other day, it was actually personal and matching. Finally someone who gets it although I am not really looking. Oh yeah? What company? Oh 3DHubs, they seem a nice bunch’. etc etc. Word of mouth is still very powerful, especially in niche-recruitment projects. But let me get back to the Snooze button. The famous reply: ‘Not really looking right now, but I might be in ‘x’ months. BAM, snooze that guy for 3 months and he will pop up in your screen to be followed up upon then. So, when you do this frequently enough, people will start popping up in your screen all over the place, and that’s what I call the snowball effect of sourcing talent. The power is to have an active pipeline at all time, not to hire people now you needed yesterday.&lt;/p&gt;
+
+&lt;p&gt;So in the candidate profile you can schedule interviews, leave feedback, send emails, add or remove followers and check status. I was about to do like 20 screenshots, but why not make one video showing its power:&lt;/p&gt;
+
+&lt;iframe width="560" height="315" src="http://www.youtube.com/embed/JPSAHPNf7Ng" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Then their reporting tool is sophisticated. You can run numbers of reports so the data driven recruiter will have some fun using it.&lt;/p&gt;
+
+&lt;p&gt;As a matter of fact, they have one engineer working for them who was solely focussing on data visualisation. The outcome is quite unique and you can definitely run a lot of reports with Lever:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://willemwijnans.github.io/content/images/2014/11/Screen-Shot-2014-11-03-at-11-31-47-1.png" alt=""&gt;&lt;/p&gt;
+
+&lt;p&gt;I do want to show you the Conversion Rate (beta) reporting tool, the one I like the most:&lt;/p&gt;
+
+&lt;iframe width="560" height="315" src="http://www.youtube.com/embed/Km_4t4CNbjg" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h4 id="thenotsogood"&gt;The not so good&lt;/h4&gt;
+
+&lt;p&gt;Unfortunately, Lever does not come without flaws. There are some things that bug me. For instance, I am on currently working on a 13" Macbook and the overviews are hard to manage in such a small screen:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://willemwijnans.github.io/content/images/2014/11/Bug-1.png" alt=""&gt;&lt;/p&gt;
+
+&lt;p&gt;The candidate profile excerpt overlaps the pipeline ☹Posting your jobs to free job boards is not included and will most likely not be in. I kind of like that, since I don’t rely on people from these sources anyway. But for the enterprise businesses I can understand that this is a problem, as they would still get a lot of inflow on their (marketing / sales / whatever) jobs. Jobs on your job board do get picked up by Indeed, I believe, and setting up Glassdoor is easy by just adding the link of your careers site to the Glassdoor settings. All other free job sites: N/A.&lt;/p&gt;
+
+&lt;p&gt;Workflows can only be changed with help from one of their team members. I’d like to have freedom creating my own workflows per job, as they differ quite a lot.&lt;/p&gt;
+
+&lt;p&gt;I am missing a mobile application that lets me do things remote.&lt;/p&gt;
+
+&lt;p&gt;Sometimes bugs pop up, showing inconsistencies as having 5 people on snooze but instead lever is showing you the active candidates. A simple refresh (&lt;strong&gt;⌘+R&lt;/strong&gt;) fixes this, but if it happens frequently I get irritated sometimes. Remember, Lever is still being built and they are on it when it comes to fixing bugs. (The project ‘Polish’ being one that addressed many of them).&lt;/p&gt;
+
+&lt;p&gt;One thing I think they can do better is showing how they do data-migration and on-boarding. The fact is the decision of switching ATSs is mostly with a member of the hiring team who will not use it as much and will always throw in ‘The fear of change’. They will come up with all kinds of BS not to change and stick with systems as Taleo, Jobvite or &lt;em&gt;insert any random ATS here&lt;/em&gt;. The biggest one is always ‘losing their data’ or ‘training new members’. If Lever would put up more information about how they go about these topics, these so called decision makers would have no reason to stand in the way of change.&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;h4 id="conclusion"&gt;Conclusion&lt;/h4&gt;
+
+&lt;p&gt;All in all, if you are a startup and you are still using spreadsheets, give Lever a try. I have no doubt that you will like it. To get the most out of Lever, right out of the gate, get EVERYONE on your team involved in hiring / recruiting. If you incorporate this mindset from the beginning and embed it in your culture, you will reap the benefits later: a healthy pipeline on any job and people enjoying recruiting instead of dreading it.&lt;/p&gt;
+
+&lt;p&gt;For all you recruiters / hiring managers who are reading this and want to change from legacy stuff ASAP, do it. Stop giving your money to products that do not work or are hampering you hiring talent. Start using tools and embrace the fact of change, instead the state of fear.&lt;/p&gt;
+
+&lt;p&gt;So that’s about it, I do want to thank some people and products before I conclude this:&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;a href="http://alinelerner.com/"&gt;Aline Lerner&lt;/a&gt;&lt;/em&gt;, for being such a kick-ass person when it comes to fixing tech hiring and introducing me to Lever through her original &lt;a href="http://www.quora.com/Reviews-of-Lever"&gt;Quora post&lt;/a&gt; where she reviews Lever. I really can not recommend &lt;a href="http://blog.alinelerner.com/"&gt;her blog&lt;/a&gt; and posts highly enough.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://evernote.com/skitch/"&gt;&lt;em&gt;Skitch by Evernote&lt;/em&gt;&lt;/a&gt;, for making such cool tools to edit my screenshots and good old Quicktime to record screencasts☺.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://lever.co/about.html"&gt;&lt;em&gt;The team of Lever&lt;/em&gt;&lt;/a&gt;, giving me the apparel to hike Clouds Rest and Glacier Point in Yosemite.&lt;/p&gt;
+
+&lt;p&gt;For building this product and for the nice lunch and dinner and time I had with them while visiting San Francisco.&lt;/p&gt;
+
+&lt;p&gt;Oh yeah, &lt;a href="https://lever.co/jobs.html"&gt;they are hiring&lt;/a&gt;!&lt;/p&gt;</description><link>http://willemwijnans.github.io/review-of-lever/</link><guid isPermaLink="false">e0363233-aa65-4f3c-80bf-92081d8ea101</guid><category>Reviews</category><dc:creator>Willem Wijnans</dc:creator><pubDate>Wed, 29 Oct 2014 23:25:10 GMT</pubDate></item><item><title>Hiring done right // Workable and Lever</title><description>&lt;p&gt;Since I did the &lt;a href="http://sourcingmonk.com/talent-hacking-done-right/" title="Hiring done right // Talent Hacking"&gt;interview with Jobbox.io&lt;/a&gt; I noticed how many people are interested in Talent Hacking. I have always been interested in doing things right with technology, especially the administrative part of hiring. It just takes very good spreadsheet management (where I fail miserably) or exceptional tools to do this (I like leveraging technology more). &lt;/p&gt;
 
 &lt;p&gt;So I am going to talk a little about the two tools / startups that have kickstarted me in any role I hire for. So meet my two friends, &lt;a href="http://lever.co/"&gt;Lever&lt;/a&gt; and &lt;a href="http://workable.com/"&gt;Workable&lt;/a&gt;. The latter is from Greece, the other is from the US. They are both good friends of mine, and they respect each other as well. But they are competitors to each other, as they both deliver an awesome product. They both give you a headstart when it comes to hiring tech talent. They are both equally cool, nice and helpful when I fill the funnels of the startups I am helping. &lt;/p&gt;
 
