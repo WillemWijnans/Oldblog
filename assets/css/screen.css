@@ -142,14 +142,14 @@ h3, h4, h5, h6 {
 }
 
 h1 {
-    font-size: 5rem;
+    font-size: 4rem;
     line-height: 1.2em;
     letter-spacing: -2px;
     text-indent: -3px;
 }
 
 h2 {
-    font-size: 4rem;
+    font-size: 3.7rem;
     line-height: 1.2em;
     letter-spacing: -1px;
     text-indent: -2px;
@@ -182,7 +182,7 @@ a {
 }
 
 a:hover {
-    color: #E64946;
+    color: #00ff67;
 }
 
 button {
@@ -228,13 +228,13 @@ a.btn {
     margin-top: 4rem;
     cursor: pointer;
     font-family: 'Oswald', sans-serif;
-    text-transform: uppercase;
+    text-transform: full-width;
     font-weight: lighter;
 
 }
 
 a.btn:hover {
-    background: #1a1a1a;
+    background: #0d0d0d;
     color: #00ff67;
 }
 
@@ -270,7 +270,7 @@ blockquote {
     box-sizing: border-box;
     margin: 1.0em 0 1.0em 2.2em;
     padding: 0 0 0 1.0em;
-    border-left: 5px solid #E64946;
+    border-left: 5px solid #00ff67;
     /*border-left: #4a4a4a 0.4em solid;*/
     font-weight: lighter;
 }
@@ -546,7 +546,7 @@ margin on the iframe, cause it breaks stuff. */
 #menu-toggle div {
   width: 100%;
   height: 5px;
-  background: white;
+  background: #00ff67;
   margin: 4px auto;  
   backface-visibility: hidden;
   -webkit-transition: all 0.3s;
@@ -563,7 +563,6 @@ margin on the iframe, cause it breaks stuff. */
     -o-transform: rotate(45deg) translate(5px, 5px);
     -ms-transform: rotate(45deg) translate(5px, 5px);
     transform: rotate(45deg) translate(5px, 5px);
-
 }
 
 #menu-toggle.open .two {
@@ -581,7 +580,6 @@ margin on the iframe, cause it breaks stuff. */
 
 
 #top-menu {  
-  color: #fff;
   margin: 20px 0 0 70px;
   z-index: 10;
   display: none;
@@ -614,7 +612,7 @@ margin on the iframe, cause it breaks stuff. */
 /* Blog Logo. Upload one in ghost/settings/ */
 #blog-logo img {
     display: block;
-    max-height: 100px;
+    max-height: 150px;
     width: auto;
     margin: 20px auto;
     line-height: 0;
@@ -639,8 +637,9 @@ margin on the iframe, cause it breaks stuff. */
 /* The details of your blog. Defined in ghost/settings/ */
 .blog-title {
     margin: 10px 0 10px 0;
-    font-size: 5rem;
-    letter-spacing: -1px;
+    font-size: 4rem;
+    letter-spacing: 1.5px;
+    font-family: 'Oswald', sans-serif;
 }
 
 .blog-description {
@@ -661,7 +660,7 @@ h5.left-menu-title {
 }
 
 .social-icons img {
-    height: 50px;
+    height: 40px;
     margin-bottom: 10px;
 }
 
@@ -766,7 +765,7 @@ color: #fff;
 }
 
 .footer-social-icons a:hover{
-      color: #fff;
+      color: #00ff67;
 }
 
 a.fn-item {
@@ -820,7 +819,7 @@ a.fn-item.active {
 
 .post-title a:hover {
     text-decoration: none;
-    color: #E64946;
+    color: grey;
     border-bottom: 3px solid;
 }
 
@@ -923,7 +922,7 @@ a.fn-item.active {
 
 .read-more:hover {
     border-color: #343434;
-    color: #E64946;
+    color: #00ff67;
     background-color: #fff;
 }
 
@@ -1217,7 +1216,7 @@ a.fn-item.active {
 .older-posts:hover,
 .newer-posts:hover {
     border-color: #9EABB3;
-    color: #E64946;
+    color: #00ff67;
     background-color: #fff;
 }
 
@@ -1275,7 +1274,7 @@ a.fn-item.active {
 }
 
 .go-top:hover {
-   color: #E64946!important; 
+   color: #00ff67!important; 
 }
 
 
@@ -1391,7 +1390,7 @@ a.fn-item.active {
 
     .back-to-home {
         display: block;
-        color: #E64946;
+        color: #00ff67;
         width: 80%;
         margin: 5px auto;    
     }
@@ -1458,7 +1457,7 @@ a.fn-item.active {
 
     .back-to-home {
         display: block;
-        color: #E64946;
+        color: #00ff67;
         width: 90%;
         margin: 5px auto;    
     }
@@ -1489,6 +1488,8 @@ a.fn-item.active {
     #menu-toggle {
         margin: 15px;
     }
+    
+    
 
     #top-menu {
         margin: 5px 0;
