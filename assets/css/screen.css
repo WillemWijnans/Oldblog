@@ -214,16 +214,16 @@ button a {
 a.btn {
     
     text-decoration: none;
-    background-color: #86c440;
+    background-color: #00ff67;
     border-radius: 6px;
     -webkit-border-radius: 6px;
-    color: white;
+    color: #1a1a1a;
     display: inline-block;
     font-size: 16px;
     letter-spacing: 1px;
     margin: 0;
     overflow: visible;
-    padding: 10px 20px 10px 20px;
+    padding: 5px 10px 5px 10px;
     position: relative;
     margin-top: 4rem;
     cursor: pointer;
@@ -234,7 +234,8 @@ a.btn {
 }
 
 a.btn:hover {
-    background: #9fd067;
+    background: #1a1a1a;
+    color: #00ff67;
 }
 
 
@@ -493,7 +494,7 @@ margin on the iframe, cause it breaks stuff. */
     margin-bottom: 0rem;
     text-align: center;
     color: #fff;
-    background-color: #343434;
+    background-color: #1a1a1a;
     background-size: 100%;
     background-attachment: fixed;
 }
