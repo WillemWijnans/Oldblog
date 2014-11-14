@@ -234,7 +234,7 @@ a.btn {
 }
 
 a.btn:hover {
-    background: #0d0d0d;
+    background: transparent;
     color: #00ff67;
 }
 
@@ -582,8 +582,7 @@ margin on the iframe, cause it breaks stuff. */
 #top-menu {  
   margin: 20px 0 0 70px;
   z-index: 10;
-  display: none;
-  
+  display: none;     
 }
 
 #top-menu ul {
@@ -596,13 +595,13 @@ margin on the iframe, cause it breaks stuff. */
     list-style-type: none;
     margin: 0 auto;
     padding: 10px;
-    background: rgba(0,0,0, .1);
+    background: inherit;
     text-transform: uppercase;
     font-size: 1.5rem;
 }
 
 #top-menu ul li:hover {
-    background: rgba(0,0,0, .3);
+    background: inherit;
 }
 
 #top-menu a {
@@ -746,8 +745,8 @@ color: #fff;
 .footer-social-menu {
     width: 280px;
     padding: 1rem 0;
-    background-color: #1c2024;
-    border-bottom: 3px solid #7C8188;
+    background-color: #242424;
+    border-bottom: 3px solid #242424;
     position: fixed;
     bottom: 0;
     left: 0;

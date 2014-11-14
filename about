@@ -111,10 +111,10 @@
         <!-- Footer Social Icons --> 
             <div class="footer-social-menu">
                 <div class="footer-social-icons">
-                    <a href="http://www.facebook.com/"><i class="fa fa-facebook fa-2x"></i></a>
-                    <a href="http://www.twitter.com/"><i class="fa fa-twitter fa-2x"></i></a>
-                    <a href="https://github.com/"><i class="fa fa-github fa-2x"></i></a>
-                    <a href="https://plus.google.com"><i class="fa fa-google-plus fa-2x"></i></a>
+                    <a href="https://www.facebook.com/sourcingmonk"><i class="fa fa-facebook fa-2x"></i></a>
+                    <a href="http://www.twitter.com/willemwijnans"><i class="fa fa-twitter fa-2x"></i></a>
+                    <a href="https://github.com/willemwijnans"><i class="fa fa-github fa-2x"></i></a>
+                    <a href="https://plus.google.com/u/1/+WillemWijnans1/"><i class="fa fa-google-plus fa-2x"></i></a>
                     <a href="http://willemwijnans.github.io/rss"><i class="fa fa-rss fa-2x"></i></a>
                 </div> 
             </div><!-- Footer Social Icons -->
@@ -165,7 +165,7 @@
         </div>
     </footer>
 
-    <script src="public/jquery.js?v=abc91a9695"></script>
+    <script src="public/jquery.js?v=3a9a2d490d"></script>
 
 
     <script type="text/javascript" src="assets/js/icons.js"></script>
